@@ -7,7 +7,7 @@
   </a>
 </p>
 
-X-emerge is an Alpine ([alpinejs](https://github.com/alpinejs/alpine)) plugin that handles lazy loading of FrontSail components.
+X-emerge is an [Alpine.js](https://github.com/alpinejs/alpine) plugin that handles lazy loading of FrontSail components.
 
 For documentation, see [frontsail.com/docs/essentials/alpine/x-emerge](https://www.frontsail.com/docs/essentials/alpine/x-emerge).
 
