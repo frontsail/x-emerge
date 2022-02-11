@@ -4,7 +4,7 @@
   "author": "Muris Ceman <muris@frontsail.com>",
   "license": "MIT",
   "homepage": "https://www.frontsail.com/docs/essentials/alpine/x-emerge",
-  "description": "An Alpine plugin that handles lazy loading of FrontSail components.",
+  "description": "An Alpine plugin that handles lazy loading of FrontSail components in <template> elements.",
   "main": "src/index.js",
   "scripts": {
     "format": "prettier --write .",
